@@ -1,0 +1,898 @@
+{
+  "00": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\okeh.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 0,
+      "g": 255
+    }
+  },
+  "44": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "01": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\bruh.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 0,
+      "b": 255,
+      "g": 255
+    }
+  },
+  "45": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "02": {
+    "vol": 60,
+    "soundfile": "D:\\Soundboard\\Badumtss.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 255
+    }
+  },
+  "46": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "03": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Thud.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 89,
+      "g": 104
+    }
+  },
+  "47": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "04": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Click.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 255
+    }
+  },
+  "05": {
+    "vol": 50,
+    "soundfile": "D:\\Soundboard\\Hongigana.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 50,
+      "b": 125,
+      "g": 255
+    }
+  },
+  "06": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Noice.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 167
+    }
+  },
+  "07": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\WHAT.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "50": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "51": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "52": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "53": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "10": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\skibbity bop mmm dada.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 0,
+      "g": 92
+    }
+  },
+  "54": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "11": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "55": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "12": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "56": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "13": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "57": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "14": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\bonk.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 71,
+      "g": 48
+    }
+  },
+  "15": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\hello im under the water.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 129,
+      "b": 255,
+      "g": 172
+    }
+  },
+  "16": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\A child.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 0,
+      "b": 96,
+      "g": 128
+    }
+  },
+  "17": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\boom.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 0,
+      "b": 96,
+      "g": 128
+    }
+  },
+  "60": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "61": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "62": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "63": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "20": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "64": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "21": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "65": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Ger.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 0,
+      "g": 82
+    }
+  },
+  "22": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "66": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Bur.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 0,
+      "g": 82
+    }
+  },
+  "23": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "67": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Ham.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 0,
+      "g": 82
+    }
+  },
+  "24": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "25": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\u are geh.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 255,
+      "g": 107
+    }
+  },
+  "26": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\why are u geh.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 150,
+      "g": 105
+    }
+  },
+  "27": {
+    "vol": 50,
+    "soundfile": "D:\\Soundboard\\Allahu Akbar.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 0,
+      "g": 131
+    }
+  },
+  "70": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\ASDF_Ohh.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 121,
+      "g": 255
+    }
+  },
+  "71": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "72": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "73": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Nice Cock Short.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 141,
+      "b": 188,
+      "g": 255
+    }
+  },
+  "30": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "74": {
+    "vol": 90,
+    "soundfile": "D:\\Soundboard\\Nice Cock.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 105,
+      "b": 178,
+      "g": 125
+    }
+  },
+  "31": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "75": {
+    "vol": 40,
+    "soundfile": "D:\\Soundboard\\Gayyyy.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 255,
+      "g": 0
+    }
+  },
+  "32": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Iridocyclitis.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 132,
+      "b": 0,
+      "g": 106
+    }
+  },
+  "76": {
+    "vol": 80,
+    "soundfile": "D:\\Soundboard\\Nya.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 157,
+      "b": 222,
+      "g": 76
+    }
+  },
+  "33": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "77": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\nut.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 0,
+      "b": 255,
+      "g": 0
+    }
+  },
+  "34": {
+    "vol": 60,
+    "soundfile": "D:\\Soundboard\\WOOP!.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 0,
+      "g": 52
+    }
+  },
+  "35": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "36": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "37": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Dragoness.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "40": {
+    "vol": 50,
+    "soundfile": "D:\\Soundboard\\Moan.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 192,
+      "g": 110
+    }
+  },
+  "41": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "42": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "43": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  }
+}

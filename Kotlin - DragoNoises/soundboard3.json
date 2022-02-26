@@ -1,0 +1,898 @@
+{
+  "00": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "44": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "01": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "45": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "02": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "46": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "03": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "47": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Dragoness\\Fuck You 6.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "04": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "05": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Dragoness\\Trys Sucks.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 0,
+      "g": 174
+    }
+  },
+  "06": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Dragoness\\BRRRRRRRRRR.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 0,
+      "b": 255,
+      "g": 0
+    }
+  },
+  "07": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Dragoness\\Fuck You 1.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "50": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "51": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "52": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "53": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "10": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "54": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "11": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "55": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "12": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "56": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "13": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "57": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Dragoness\\Fuck You 7.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "14": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "15": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "16": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Dragoness\\What the fuck.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 164,
+      "g": 98
+    }
+  },
+  "17": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Dragoness\\Fuck You 2.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "60": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "61": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "62": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "63": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "20": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "64": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "21": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "65": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "22": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "66": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "23": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "67": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Dragoness\\Fuck You 8.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "24": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "25": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "26": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Dragoness\\Smol PP.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 0,
+      "g": 255
+    }
+  },
+  "27": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Dragoness\\Fuck You 3.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "70": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "71": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "72": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "73": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "30": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "74": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "31": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "75": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "32": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "76": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "33": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "77": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Dragoness\\Fuck You 5.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "34": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "35": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "36": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Dragoness\\Seagull.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 101,
+      "b": 106,
+      "g": 144
+    }
+  },
+  "37": {
+    "vol": 100,
+    "soundfile": "D:\\Soundboard\\Dragoness\\Fuck You 4.wav",
+    "on-color": {
+      "r": 255,
+      "b": 255,
+      "g": 255
+    },
+    "off-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "40": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "41": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "42": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "43": {
+    "vol": 100,
+    "soundfile": "",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  }
+}

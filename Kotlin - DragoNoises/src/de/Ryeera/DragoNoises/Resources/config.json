@@ -1,0 +1,13 @@
+{
+  "debug": true,
+  "soundboard-file1": "soundboard1.json",
+  "soundboard-file2": "soundboard2.json",
+  "soundboard-file3": "soundboard3.json",
+  "soundboard-file4": "soundboard4.json",
+  "soundboard-file5": "soundboard5.json",
+  "audio": "CABLE-A Input (VB-Audio Cable A)",
+  "soundboard-file6": "soundboard6.json",
+  "soundboard-file7": "soundboard7.json",
+  "soundboard-file8": "soundboard8.json",
+  "current-soundboard": 1
+}

@@ -1,0 +1,898 @@
+{
+  "00": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\57.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "44": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\29.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "01": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\49.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "45": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\21.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "02": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\41.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "46": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\13.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "03": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\33.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "47": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\05.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "04": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\25.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "05": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\17.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "06": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\09.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "07": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\01.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "50": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\62.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "51": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\54.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "52": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\46.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "53": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\38.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "10": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\58.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "54": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\30.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "11": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\50.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "55": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\22.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "12": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\42.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "56": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\14.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "13": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\34.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "57": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\06.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "14": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\26.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "15": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\18.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "16": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\10.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "17": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\02.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "60": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\63.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "61": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\55.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "62": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\47.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "63": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\39.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "20": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\59.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "64": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\31.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "21": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\51.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "65": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\23.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "22": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\43.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "66": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\15.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "23": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\35.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "67": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\07.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "24": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\27.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "25": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\19.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "26": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\11.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "27": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\03.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "70": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\64.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "71": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\56.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "72": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\48.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "73": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\40.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "30": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\60.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "74": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\32.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "31": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\52.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "75": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\24.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "32": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\44.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "76": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\16.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "33": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\36.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "77": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\08.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "34": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\28.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "35": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\20.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "36": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\12.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "37": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\04.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "40": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\61.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "41": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\53.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "42": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\45.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  },
+  "43": {
+    "vol": 30,
+    "soundfile": "D:\\Soundboard\\Facts\\37.wav",
+    "on-color": {
+      "r": 255,
+      "b": 0,
+      "g": 0
+    },
+    "off-color": {
+      "r": 0,
+      "b": 0,
+      "g": 0
+    }
+  }
+}
